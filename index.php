@@ -1,1 +1,1 @@
-feet add first file leo.php
+feet add first file index.php
