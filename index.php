@@ -1,1 +1,3 @@
-feet add first file index.php
+<?php
+echo phpinfo()
+?>
